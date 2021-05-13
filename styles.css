@@ -1,11 +1,47 @@
-span {
-    /* display: block; */
-    margin: 20px;
-    padding: 20px;
+/* p.error {
+    color: red;
 }
-div {
-    /* display: inline; */
-    border: 2px solid crimson;
-    margin: 20px;
+
+p.success {
+    color: #00bd10;
+}
+p.success.feedback {
+    border: 1px dashed #00bd10;
+}
+#content {
+    background-color: #ebebeb;
     padding: 20px;
+} */
+
+/* div .error {
+    color: purple;
+} */
+/* 
+a[href*="google"] {
+    background-color: #3fbd3f;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+a[href$="17508610"] {
+    color: white;
+    background: red;
+    border: 2px solid blue;
+} */
+
+div{
+    color: lightcoral;
+    border: 1px solid grey;
+    margin: 40px;
+    font-weight: bold;
+}
+p{
+    border: inherit;
+    margin: inherit;
+    color: crimson;
+}
+p{
+    color: orange;
 }
